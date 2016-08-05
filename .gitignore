@@ -1,0 +1,62 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+\usepackage[T1]{fontenc}
+\pagenumbering{gobble}
+
+
+
+\title{
+\rule{\textwidth}{1.6pt}\vspace*{-\baselineskip}\vspace*{2pt} % Thick horizontal line
+\rule{\textwidth}{0.4pt}\\[\baselineskip] \Huge Professional Portifolio\\ of\\Ning Yang%your name 
+\rule{\textwidth}{0.4pt}\vspace*{-\baselineskip}\vspace*{3.2pt} % Thick horizontal line
+\rule{\textwidth}{1.6pt}\\[\baselineskip]
+}
+
+
+\author{\small Edited by\\[\baselineskip]
+\textsc{Ning Yang}\thanks{www.linkedin.com/in/ning-yang-521287112}
+\\ \small Mathematics BA}
+\date{July 2016}
+\begin{document}
+
+\maketitle
+\vspace{20mm}
+\begin{center}
+\includegraphics[scale=0.1]{UMassDLogo.jpg}\\%add your school logo
+\vspace{4mm}
+{\itshape The University of Massachusetts  \\ Dartmouth\footnote{ 187 Old Westport RD, North Dartmouth, MA, 02747}\par}% school address 
+\clearpage
+\section*{\Large Table of Contents}% you can change the name 
+\rule{\textwidth}{1.6pt}\vspace*{-\baselineskip}\\
+\vspace{40mm}
+\textbf{R\'esum\'e}\\
+\vspace{5mm}
+\textbf{Cover Letter}\\
+\vspace{5mm}
+\textbf{Letters of Recommendation}\\
+\textit{(\small by request from references in CV)}\\
+\vspace{5mm}
+\textbf{Projects}\\
+ $\bullet$ Music Analysis \\
+$\bullet$ Solving the predator and prey models \\with exponential integrators\\
+\vspace{5mm}
+\textbf{Source Code}\\
+$\bullet$ Bouncing Ball vPython code\\
+$\bullet$ Data fitting in Python\\
+$\bullet$ Plotting Geometric Objects in Python\\
+\vspace{5mm}
+\textbf{Posters}\\
+$\bullet$ The predator and Prey models\\ 
+\vspace{5mm}
+
+
+\textbf{Presentations}\\
+$\bullet$ The predator and Prey models\\
+\vspace{5mm}
+\textbf{Technical Reports}\\
+$\bullet$ 2014 Modeling Contest
+\end{center}
+\clearpage
+
+\end{document}
